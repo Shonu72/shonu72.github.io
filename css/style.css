@@ -491,11 +491,13 @@ a:focus {
 }
 
 .about .about-img {
+    
     position: relative;
     height: 100%;
 }
 
 .about .about-img img {
+    
     position: relative;
     width: 500px;
     height: 100%;
@@ -929,7 +931,7 @@ a:focus {
 }
 
 .contact .container-fluid {
-    background: url(../img/contact.png) left center no-repeat;
+    background: url(../img/me.png) left center no-repeat;
     background-size: contain;
     
 }
@@ -937,8 +939,8 @@ a:focus {
 .contact .contact-form {
     position: relative;
     padding: 90px 0 90px 45px;
-    /* background: #EF233C; */
-    background: linear-gradient(rgba(192, 87, 46, 0.95), rgba(35, 47, 110, 0.95));
+    
+    /* background: linear-gradient(rgba(192, 87, 46, 0.95), rgba(35, 47, 110, 0.95)); */
 }
 
 .contact .contact-form input {
